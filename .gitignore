@@ -1,0 +1,7 @@
+venv/
+clients.db
+*.log
+nohup.out
+__pycache__/
+*.pyc
+.env
